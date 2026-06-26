@@ -1,0 +1,21 @@
+county_name,state,fips,equity_gap_score,medicare_spending_per_beneficiary,poverty_rate,diabetes_rate,primary_driver
+Oglala Lakota,SD,46102,0.763,17629.81,55.1,22.45,Poverty
+Greene,AL,01063,0.715,11800.14,32.49,24.1,Diabetes
+Sharkey,MS,28125,0.675,12966.43,26.21,22.4,Diabetes
+Humphreys,MS,28053,0.674,14724.98,31.68,22.65,Diabetes
+Todd,SD,46121,0.662,14267.92,51.26,21.8,Poverty
+Holmes,MS,28051,0.659,17461.09,33.23,22.15,Diabetes
+Sioux,ND,38085,0.655,12358.75,39.04,20.15,Poverty
+Presidio,TX,48377,0.65,7951.4,39.96,20.0,Poverty
+Jefferson,MS,28063,0.645,15847.39,29.68,21.7,Hypertension
+Perry,AL,01105,0.641,11371.5,29.23,22.55,Diabetes
+Bullock,AL,01011,0.637,12279.03,26.02,22.95,Diabetes
+Tensas,LA,22107,0.634,14748.09,34.0,21.6,Diabetes
+Coahoma,MS,28027,0.632,13623.18,35.85,20.65,Diabetes
+Madison,LA,22065,0.625,18872.13,32.14,21.1,Diabetes
+East Carroll,LA,22035,0.62,17177.08,30.06,21.65,Diabetes
+Dimmit,TX,48127,0.616,16632.19,42.97,22.45,Diabetes
+Quitman,MS,28119,0.608,15358.98,29.27,21.15,Diabetes
+Lowndes,AL,01085,0.604,11296.49,25.14,21.75,Diabetes
+Wilcox,AL,01131,0.602,11994.24,26.19,21.45,Diabetes
+Claiborne,MS,28021,0.602,16313.43,26.75,20.0,Hypertension
