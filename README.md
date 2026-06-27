@@ -11,7 +11,7 @@ Built with CDC PLACES, CMS Medicare Geographic Variation, and US Census ACS data
 
 **[View on Tableau Public](https://public.tableau.com/authoring/EquiCareHealthEquityGapAnalyzer/Dashboard1#1)**
 
-![Spending by Quartile](output/03_spending_by_quartile.png)
+![Correlation Heatmap](output/01_correlation_heatmap.png)
 
 ---
 
